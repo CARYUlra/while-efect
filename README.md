@@ -88,4 +88,5 @@ Organização: Código limpo e arquivos separados por responsabilidade.
 
 📄 Licença
 Este projeto tem fins educacionais.
+
 <img width="1000" height="500" alt="MonadGIF" src="https://github.com/user-attachments/assets/f3636ec1-281f-49da-aebc-ce71951e2411" />
