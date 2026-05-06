@@ -71,11 +71,13 @@ node exercicio1_valida_positivo.js
 🔄 Fluxo de Versionamento
 Os arquivos foram versionados seguindo as boas práticas:
 
-git init (Inicialização)
+git status (Inicialização)
 
 git add . (Preparação)
 
-git commit -m "feat: implementando lógica de repetição" (Registro)
+git status (checagem)
+
+git commit -m "banana" (Registro)
 
 git push origin main (Sincronização remota)
 
