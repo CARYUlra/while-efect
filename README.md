@@ -39,6 +39,8 @@ O projeto demonstra o uso prático de laços para garantir que o programa só av
 ├── exercicio4_valida_nome.js    # Verificação de campos vazios
 ├── exercicio5_saque_bancario.js  # Simulação de saldo e saques
 └── README.md
+
+```
 📚 Soluções Implementadas
 1. Validação de Número Positivo
 O programa solicita um número ao usuário. Caso o valor seja negativo, o sistema entra em loop e repete a solicitação até que um número válido (positivo) seja inserido.
