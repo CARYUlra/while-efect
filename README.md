@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=js-loop-control&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 # 📘 Exercícios de JavaScript com Estruturas de Repetição (While / Do-While)
-
+#########(DO-While não foi utilizado)
 ## 📌 Visão Geral
 
 Este repositório contém a resolução de 5 desafios de lógica de programação utilizando **JavaScript**. O foco principal destas atividades é a aplicação de **estruturas de controle de repetição** para validação de dados e processamento de fluxos contínuos.
