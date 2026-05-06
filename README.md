@@ -63,7 +63,7 @@ Certifique-se de ter o Node.js instalado.
 Clone o repositório:
 
 Bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/CARYUlra/while-efect.git)
 Entre na pasta e execute o arquivo desejado:
 
 Bash
@@ -88,3 +88,4 @@ Organização: Código limpo e arquivos separados por responsabilidade.
 
 📄 Licença
 Este projeto tem fins educacionais.
+<img width="1000" height="500" alt="MonadGIF" src="https://github.com/user-attachments/assets/f3636ec1-281f-49da-aebc-ce71951e2411" />
